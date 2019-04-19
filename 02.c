@@ -48,7 +48,7 @@ int main()
             printf("此導體溫度為%lf時，電阻之溫度係數為%lf\n",t,a);
             break;
         case '8':
-            a = (double)(1/(6220+t));
+            a = (double)(1/(2480+t));
             printf("此導體溫度為%lf時，電阻之溫度係數為%lf\n",t,a);
             break;
         default:
