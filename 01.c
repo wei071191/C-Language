@@ -45,7 +45,7 @@ int main()
         }
         
     }
-    if(ans=='H'||ans=='d')
+    if(ans=='H'||ans=='')
     {
         
         
